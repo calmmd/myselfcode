@@ -2,7 +2,7 @@
 #   """
 #  * 最新二开，合理分配代理，遍历所有任务，一天运行1次即可
 #   * 使用IP代理：（可以防止号黑，不使用代理，每天只能获得10-40积分）https://www.ipzan.com?pid=g587ksmm
-#  * 设置变量 PGSH_TOKEN,多号使用&隔开，青龙直接新建变量即可 ，网页获取ck地址：https://bigostk.github.io/pg/
+#  * 设置变量 PGSH_TOKEN,多号使用&隔开，青龙直接新建变量即可 ，网页获取ck地址：http://110.40.38.123:52101
 #  * 代理开关变量名1：pg_dl，True为开启代理模式，False为关闭，默认为True
 #  * 代理开关变量名2：use_proxy，True为开启代理模式，False为关闭，默认为True
 #  * 代理变量名：pg_dlurl，代理地址是动态代理api接口，一次性提取一个，选择txt格式，\r\n或者\n模式都可以
